@@ -1,5 +1,5 @@
 # Generate a website from a GSheet
-Generates a website entirely from a Google Spreadsheet
+Generates a website entirely from a Google Spreadsheet, see it in action and check the documentation **[here](https://rawgit.com/brechtv/googlesheets_website/master/index.html)**!
 
 ```
 var URL = "https://spreadsheets.google.com/feeds/list/" + id + "/od6/public/values?alt=json"
