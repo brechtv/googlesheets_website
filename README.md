@@ -1,7 +1,7 @@
 # Generate a website from a GSheet
 Generates a website entirely from a Google Spreadsheet, see it in action and check the documentation **[here](https://rawgit.com/brechtv/googlesheets_website/master/index.html)**!
 
-## Howto
+### Howto
 
 1. Create a new Google spreadsheet , create two columns, called title and content
 2. For each post, add in your content
